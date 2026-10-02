@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c79002f4ff.uuaefq.cn/sitemap.xml
